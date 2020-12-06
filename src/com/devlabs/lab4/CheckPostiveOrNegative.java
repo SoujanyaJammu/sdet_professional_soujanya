@@ -1,4 +1,4 @@
-package com.devlabs.solutions.lab4;
+package com.devlabs.lab4;
 
 	import java.util.Scanner;
 

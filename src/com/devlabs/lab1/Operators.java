@@ -1,4 +1,4 @@
-package core_java.Lab_Solutions.Lab1;
+package com.devlabs.lab1;
 
 public class Operators {
 	
