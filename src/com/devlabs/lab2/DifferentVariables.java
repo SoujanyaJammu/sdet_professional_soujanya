@@ -1,20 +1,9 @@
 package com.devlabs.lab2;
 
-
 public class DifferentVariables {
 
-
-
 		private static int staticVar = 10;
-
 		private int instanceVar = 11;
-
-
-
-		public DifferentVariables() {
-
-		}
-
 
 		public DifferentVariables(int val) {
 
@@ -22,6 +11,9 @@ public class DifferentVariables {
 
 		}
 
+		public DifferentVariables() {
+			// TODO Auto-generated constructor stub
+		}
 
 		public static void main(String[] args) {
 
@@ -30,8 +22,6 @@ public class DifferentVariables {
 			System.out.println(localVar);
 
 			System.out.println(DifferentVariables.staticVar);
-
-
 
 			DifferentVariables diffVar = new DifferentVariables();
 
